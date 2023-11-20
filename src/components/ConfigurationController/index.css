@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.configuration_container {
+  background-color: #475569;
+  height: 23vh;
+  padding: 10px 10px 10px 100px;
+  box-sizing: border-box;
+}
+
+.checkBox_container {
+  display: flex;
+  align-items: center;
+}
+
+.layout_heading {
+  color: #e2e8f0;
+}
+
+.checkbox {
+  height: 15px;
+  width: 15px;
+}
+
+.label_text {
+  color: #f1f5f9;
+  margin-left: 6px;
+  font-size: 18px;
+}

@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.header_container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+  background-color: #cbd5e1;
+  color: #475569;
+  font-size: 22px;
+  font-weight: bold;
+}
